@@ -12,7 +12,7 @@ import os
 # solar system is somehow the one everyone is planning to move to.
 ENTRY_LINE = (
     "Mars is now 'The Fixer-Upper': red dust everywhere, no water, "
-    "and everyone's still planning to move in."
+    "no refunds, and everyone's still planning to move in."
 )
 
 MAX_CHARS = 200
